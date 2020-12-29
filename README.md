@@ -1,3 +1,3 @@
 # basics-DOMeventspractice
  Practicing exercises
-#####DOM exercises
+##### DOM exercises
